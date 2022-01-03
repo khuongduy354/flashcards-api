@@ -1,0 +1,11 @@
+{
+  "name": "flashcards-api",
+  "version": "1.0.0",
+  "description": "an api for people to manage and use flashcards for study",
+  "main": "index.js",
+  "repository": "https://github.com/khuongduy354/flashcards-api.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
