@@ -9,5 +9,6 @@ app.get("/", (req, res) => {
 });
 
 app.listen(env.PORT, () => {
-  console.log(`✅ http://14.172.105.203:${env.PORT}`);
+  console.log(`✅ Server of Khuong Duy: http://localhost:${env.PORT}`);
+  console.log(`✅ Server of Phan Duc: http://14.172.105.203:${env.PORT}`);
 });
